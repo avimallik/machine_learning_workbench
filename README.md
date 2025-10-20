@@ -5,7 +5,7 @@
 
 ---
 
-### Algorithm Practice
+### 🚀 Algorithm Practice
 Contains step-by-step implementations of supervised and unsupervised learning algorithms, including Linear & Logistic Regression, Decision Trees, Random Forests, Naïve Bayes, K-Means, SVM, and Neural Networks.
 
 ---
